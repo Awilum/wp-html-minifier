@@ -17,6 +17,8 @@ use voku\helper\HtmlMin;
 
 require_once $autoload;
 
+version_compare($ver = PHP_VERSION, $req = '7.1.3', '<') and exit(sprintf('You are running PHP %s, but plugin needs at least <strong>PHP %s</strong> to run.', $ver, $req));
+
 class HtmlMinifier {
 
     private static array $options = [];
