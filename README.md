@@ -13,5 +13,5 @@ You may edit plugin settings in `wp-content/plugins/html-minifier/settings.json`
 
 ### License
 
-[The MIT License (MIT)](https://github.com/Awilum/html-minifier/blob/master/LICENSE)
+[GNU GENERAL PUBLIC LICENSE](https://github.com/Awilum/html-minifier/blob/master/LICENSE)
 Copyright (c) [Sergey Romanenko](https://github.com/Awilum)
