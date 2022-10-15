@@ -5,7 +5,7 @@ declare(strict_types=1);
 /**
  * Plugin Name: HTML Minifier
  * Plugin URI: https://github.com/Awilum/wp-html-minifier
- * Description: WordPress plugins allows to improve your website overall performance by minifing HTML output across your entire website.
+ * Description: Plugin for WordPress allows to improve your website overall performance by minifing HTML output across your entire website.
  * Author: Sergey Romanenko
  * Version: 1.0.0
  * Author URI: https://awilum.github.io/
