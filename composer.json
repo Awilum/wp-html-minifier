@@ -1,7 +1,7 @@
 {
     "name": "awilum/wp-html-minifier",
     "type": "project",
-    "description": "WordPress plugins allows to improve your website overall performance by minifing HTML output across your entire website.",
+    "description": "Plugin for WordPress allows to improve your website overall performance by minifing HTML output across your entire website.",
     "keywords": ["wordpress", "plugin", "minify", "php", "html"],
     "homepage": "https://github.com/Awilum/wp-html-minifier",
     "license": "MIT",
